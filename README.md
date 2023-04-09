@@ -1,2 +1,2 @@
 # KIII_GitHubActions
-Home work number 5
+Homework number 5
